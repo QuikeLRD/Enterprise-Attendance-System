@@ -1,7 +1,7 @@
 # Sistema de Registro de Asistencia Empresarial – C# (Windows Forms)
 
 ##  Descripción del Proyecto
-Este proyecto fue desarrollado como **proyecto final** de la materia de Programación Avanzada en **UPIITA-IPN**.  
+Este proyecto fue desarrollado como **proyecto final** de la materia de Programación Avanzada.  
 Es una **aplicación de escritorio en C#** diseñada para gestionar la asistencia de empleados y las solicitudes de materiales dentro de una empresa.  
 
 El sistema integra **interfaz gráfica (GUI), escaneo de códigos QR, detección de color, manejo de base de datos en archivos de texto y generación de tickets**, simulando un flujo de trabajo real.  
@@ -32,7 +32,7 @@ Mi rol específico fue desarrollar el **módulo de impresión de tickets**:
 - Probado exitosamente con 5 departamentos (Administración, Finanzas, Jardinería, Limpieza, Dirección).  
 - Automatización de procesos de asistencia y solicitudes de materiales.  
 - Generación de **reportes y registros históricos** mediante tickets.  
-- Demostración de trabajo en equipo, programación modular e integración de **GUI + base de datos + visión por computadora** en una sola solución.  
+
 
 ---
 
