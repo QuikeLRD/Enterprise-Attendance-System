@@ -1,51 +1,50 @@
-# Sistema de Registro de Asistencia Empresarial – C# (Windows Forms)
+# Enterprise Attendance Registration System – C# (Windows Forms)
 
-##  Descripción del Proyecto
-Este proyecto fue desarrollado como **proyecto final** de la materia de Programación Avanzada.  
-Es una **aplicación de escritorio en C#** diseñada para gestionar la asistencia de empleados y las solicitudes de materiales dentro de una empresa.  
+## Project Description
+This project was developed as a **final project** for the Advanced Programming course.  
+It is a **desktop application in C#** designed to manage employee attendance and material requests within a company.
 
-El sistema integra **interfaz gráfica (GUI), escaneo de códigos QR, detección de color, manejo de base de datos en archivos de texto y generación de tickets**, simulando un flujo de trabajo real.  
-
----
-
-## ⚙️ Funcionalidades
-- **Autenticación de empleados:** Inicio de sesión con número de cuenta y validación de departamento.  
-- **Registro de asistencia:** Los empleados registran su entrada mediante escaneo de código QR.  
-- **Solicitud de materiales:** Permite a los usuarios solicitar materiales, validando permisos según su departamento.  
-- **Generación de tickets:** Crea automáticamente archivos `.txt` con datos del empleado, detalle de la operación, fecha y hora.  
-- **Manejo de base de datos:** Utiliza archivos de texto para almacenar empleados y transacciones.  
-- **Interfaz gráfica:** Desarrollada en Windows Forms con estilo de **MaterialSkin**.  
-- **Procesamiento de imágenes:** Implementado con **OpenCvSharp** para detección de color/QR y **ZXing.Net** para decodificación de códigos QR.  
+The system integrates a **graphical user interface (GUI), QR code scanning, color detection, text file-based database management, and ticket generation**, simulating a real-world workflow.
 
 ---
 
-##  Mi Contribución
-Este fue un **proyecto en equipo (4 integrantes)**.  
-Mi rol específico fue desarrollar el **módulo de impresión de tickets**:  
-- Implementación de generación de tickets con `StreamWriter` en formato `.txt`.  
-- Manejo de errores y notificaciones emergentes.  
-- Integración del sistema de tickets con los módulos de asistencia y solicitudes.  
+## ⚙️ Features
+- **Employee authentication:** Login using employee account number and department validation.
+- **Attendance registration:** Employees register their entry by scanning a QR code.
+- **Material requests:** Allows users to request materials, validating permissions based on their department.
+- **Ticket generation:** Automatically creates `.txt` files with employee data, operation details, date, and time.
+- **Database management:** Uses text files to store employee and transaction data.
+- **Graphical interface:** Built with Windows Forms and styled using **MaterialSkin**.
+- **Image processing:** Implemented with **OpenCvSharp** for color/QR detection and **ZXing.Net** for QR code decoding.
 
 ---
 
-##  Resultados
-- Probado exitosamente con 5 departamentos (Administración, Finanzas, Jardinería, Limpieza, Dirección).  
-- Automatización de procesos de asistencia y solicitudes de materiales.  
-- Generación de **reportes y registros históricos** mediante tickets.  
-
-
----
-
-## 🛠️ Tecnologías Utilizadas
-- **Lenguaje:** C# (Windows Forms)  
-- **Librerías:** OpenCvSharp4, ZXing.Net, MaterialSkin  
-- **Herramientas:** Visual Studio, .NET Framework  
+## My Contribution
+This was a **team project (4 members)**.  
+My specific role was to develop the **ticket printing module**:
+- Implementation of ticket generation using `StreamWriter` in `.txt` format.
+- Error handling and popup notifications.
+- Integration of the ticket system with attendance and material request modules.
 
 ---
 
-## 📂 Estructura del Repositorio
-📁 EnterpriseAttendanceSystem
-┣ 📂 src/ # Código fuente principal
-┣ 📂 data/ # Base de datos de empleados y transacciones (archivos de texto)
-┣ 📂 tickets/ # Tickets generados
-┗ README.md # Documentación del proyecto
+## Results
+- Successfully tested with 5 departments (Administration, Finance, Gardening, Cleaning, Management).
+- Automated attendance and material request processes.
+- Generation of **reports and historical records** through tickets.
+
+---
+
+## 🛠️ Technologies Used
+- **Language:** C# (Windows Forms)
+- **Libraries:** OpenCvSharp4, ZXing.Net, MaterialSkin
+- **Tools:** Visual Studio, .NET Framework
+
+---
+
+## 📂 Repository Structure
+📁 EnterpriseAttendanceSystem  
+┣ 📂 src/ # Main source code  
+┣ 📂 data/ # Employee and transaction database (text files)  
+┣ 📂 tickets/ # Generated tickets  
+┗ README.md # Project documentation
