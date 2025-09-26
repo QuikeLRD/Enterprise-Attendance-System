@@ -20,7 +20,7 @@ El sistema integra **interfaz gráfica (GUI), escaneo de códigos QR, detección
 ---
 
 ##  Mi Contribución
-Este fue un **proyecto en equipo (5 integrantes)**.  
+Este fue un **proyecto en equipo (4 integrantes)**.  
 Mi rol específico fue desarrollar el **módulo de impresión de tickets**:  
 - Implementación de generación de tickets con `StreamWriter` en formato `.txt`.  
 - Manejo de errores y notificaciones emergentes.  
