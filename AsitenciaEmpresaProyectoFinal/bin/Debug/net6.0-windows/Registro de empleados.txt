@@ -1,0 +1,175 @@
+Fecha:  03/01/2023 07:24:40 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  nao nao
+
+
+Fecha:  03/01/2023 07:38:43 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  lapliz
+
+
+Fecha:  03/01/2023 07:49:56 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  
+
+
+Fecha:  03/01/2023 07:58:36 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  latigo
+
+
+Fecha:  03/01/2023 08:03:47 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  Ticket para estacionamiento gratis
+
+
+Fecha:  03/01/2023 08:11:23 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  
+
+
+Fecha:  03/01/2023 08:11:36 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  semillas
+
+
+Fecha:  03/01/2023 08:21:51 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  escoba
+
+
+Fecha:  03/01/2023 09:06:14 p. m.
+Numero de empleado:  640019
+Nombre:  IVAN JOSE
+Departamento:  Contadores
+Solicito:  trapeador
+
+
+Fecha:  04/01/2023 12:35:55 a. m.
+Numero de empleado:  640421
+Nombre:  CESAR GIBRAN
+Departamento:  Administrativos
+Solicito:  ticket estacionamiento
+
+
+Fecha:  04/01/2023 09:21:44 a. m.
+Numero de empleado:  640174
+Nombre:  GESSURI JAFETH
+Departamento:  Limpieza
+Solicito:  dos escobas
+
+
+Fecha:  04/01/2023 09:32:55 a. m.
+Numero de empleado:  640089
+Nombre:  ANA KAREN
+Departamento:  jardineria
+Solicito:  Una maceta
+
+
+Fecha:  04/01/2023 11:43:18 a. m.
+Numero de empleado:  640105
+Nombre:  CRISTIAN
+Departamento:  jardineria
+Solicito:  unas tijeras para cortar pasto
+
+
+Fecha:  04/01/2023 12:34:43 p. m.
+Numero de empleado:  640275
+Nombre:  LUIS ENRIQUE
+Departamento:  Administrativos
+Solicito:  ticket estacionamiento
+
+
+Fecha:  04/01/2023 12:36:24 p. m.
+Numero de empleado:  640001
+Nombre:  LUIS EDUARDO
+Departamento:  jardineria
+Solicito:  Un par de guantes 
+
+
+Fecha:  04/01/2023 10:48:50 p. m.
+Numero de empleado:  640001
+Nombre:  LUIS EDUARDO
+Departamento:  jardineria
+Solicito:  Palas y cubetas
+
+
+Fecha:  26/09/2025 01:50:00 a. m.
+Numero de empleado:  640461
+Nombre:  KEVIN
+Departamento:  jardineria
+Solicito:  Tijeras 
+
+
+Fecha:  26/09/2025 02:05:34 a. m.
+Numero de empleado:  640105
+Nombre:  CRISTIAN
+Departamento:  jardineria
+Solicito:  Maceta y plantas
+
+
+Fecha:  26/09/2025 02:06:45 a. m.
+Numero de empleado:  360096
+Nombre:  ALEJANDRO
+Departamento:  Limpieza
+Solicito:  Escoba y recogedor
+
+
+Fecha:  26/09/2025 02:09:22 a. m.
+Numero de empleado:  640461
+Nombre:  KEVIN
+Departamento:  jardineria
+Solicito:  Guantes
+
+
+Fecha:  26/09/2025 09:40:06 a. m.
+Numero de empleado:  640461
+Nombre:  KEVIN
+Departamento:  jardineria
+Solicito:  Azada
+
+
+Fecha:  26/09/2025 09:43:34 a. m.
+Numero de empleado:  360096
+Nombre:  ALEJANDRO
+Departamento:  Limpieza
+Solicito:  Nada
+
+
+Fecha:  26/09/2025 09:44:03 a. m.
+Numero de empleado:  640011
+Nombre:  BENJAMIN
+Departamento:  Dueño
+Solicito:  Ticket para estacionamiento gratis
+
+
+Fecha:  26/09/2025 09:45:50 a. m.
+Numero de empleado:  640071
+Nombre:  CARLOS EDUARDO
+Departamento:  Contadores
+Solicito:  
+
+
+Fecha:  26/09/2025 09:49:03 a. m.
+Numero de empleado:  640275
+Nombre:  LUIS ENRIQUE
+Departamento:  Administrativos
+Solicito:  ticket estacionamiento
+
+
